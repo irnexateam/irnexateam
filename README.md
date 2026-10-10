@@ -25,22 +25,4 @@ We're a team of programmers and technology enthusiasts actively building in the 
 - ☁️ Build with Cloudflare Workers, Pages, and D1.
 - ⚙️ Explore automation, routing, and modern web infrastructure.
 
-## 📊 GitHub Snapshot
-
-<p align="center">
-  <img height="165" alt="NEXA Team GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=irnexateam&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&rank_icon=github" />
-  <img height="165" alt="Most used languages by NEXA Team" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irnexateam&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" />
-</p>
-
-## 💛 Support Our Work
-
-If our projects are useful to you, you can support our development:
-
-| 💰 Asset | 🌐 Network | 📬 Wallet Address |
-|:---|:---|:---|
-| **USDT** | ERC-20 | `0x78684D142CfD0dF27Cea2b2f62d98aBa0D4bc288` |
-| **TON** | TON (GRAM) | `UQBk2fhFpLgktSVucFgXdsjqNDHzHv-0GRlbN2jplnz94GZh` |
-| **Bitcoin** | BTC | `bc1qzzekk7y5fpzndywzk2jhmd8vv4wd7sdrq5csvu` |
-
-> ⚠️ Always verify the address and network before sending. Cryptocurrency transactions cannot be reversed.
 
